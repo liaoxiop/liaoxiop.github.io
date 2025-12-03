@@ -1,4 +1,4 @@
-# liaoxiop.github.io
+# [liaoxiop.github.io](https://sikuquanshu-3.gitbook.io/sikuquanshu-docs/)
 
 [四库全书·Fun](https://www.sikuquanshu.fun)：https://www.sikuquanshu.fun
 四库全书·Fun 是一个旨在让经典“活”起来、让学习“乐”起来的创新平台。其域名中的“Fun”直接宣告了它的使命：打破人们对古籍艰深晦涩的刻板印象，用轻松有趣的方式重新包装和呈现《四库全书》的浩瀚知识。无论你是对历史好奇的学生，还是忙碌中想汲取文化养分的上班族，这里都为你打开了一扇充满惊喜的趣味之窗。
